@@ -1,8 +1,8 @@
 msti-tox21
 ==============================
 
-Code repository to support manuscript: Patlewicz G, Paul-Friedman K, Houck K, Zhang L, Huang R, Xia M, Brown J, Simmons SO. Evaluating the utility of a high throughput thiol-containing fluorescent probe to screen for reactivity: A case study with the Tox21 library. Computational Toxicology **in press**.
-Underlying data can be found at: 
+Code repository to support manuscript: Patlewicz G, Paul-Friedman K, Houck K, Zhang L, Huang R, Xia M, Brown J, Simmons SO. Evaluating the utility of a high throughput thiol-containing fluorescent probe to screen for reactivity: A case study with the Tox21 library. Computational Toxicology *in press*.
+Underlying data can be found at: https://doi.org/10.23645/epacomptox.22587706.
 
 
 Project Organization
